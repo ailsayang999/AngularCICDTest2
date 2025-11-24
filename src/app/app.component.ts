@@ -10,4 +10,5 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'AngularCICDTest2';
+  version = "17.3.1";
 }
